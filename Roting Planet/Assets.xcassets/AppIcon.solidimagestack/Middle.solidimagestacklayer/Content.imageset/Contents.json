@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "planet_visionOS_2x.png",
       "idiom" : "vision",
       "scale" : "2x"
     }
