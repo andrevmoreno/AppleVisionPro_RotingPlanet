@@ -4,7 +4,7 @@ This project demonstrates the use of SwiftUI and RealityKit to create an immersi
 
 ## Preview
 
-![Demo Video](https://github.com/andrevmoreno/Roting-Planet/blob/main/Assets.xcassets/Image.dataset/Screen%20Recording%202024-07-06%20at%2018.38.13%20(1).gif)
+![Demo Video](Assets.xcassets/Image.dataset/Screen%20Recording%202024-07-06%20at%2018.38.13%20(1).gif)
 
 ## Features
 
