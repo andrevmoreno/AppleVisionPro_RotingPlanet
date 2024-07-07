@@ -4,7 +4,7 @@ This project demonstrates the use of SwiftUI and RealityKit to create an immersi
 
 ## Preview
 
-![Preview](Assets.xcassets/Image.dataset/Screen%20Recording%202024-07-06%20at%2018.38.13%20(1).gif)
+![Preview](AssetsPreview/Image-VisionPro.gif)
 
 ## Features
 
